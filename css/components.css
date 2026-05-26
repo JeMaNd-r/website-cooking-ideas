@@ -3,17 +3,55 @@ like buttons, forms, and cards. */
 
 
 /* recipes */
-.recipe {
+#recipe-container {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 60px;
+}
+
+.recipe-card {
+    display: flex;
+    gap: 12px;
+    width: 30%;
     border: 1px solid #eec297;
     padding: 10px;
 }
+
+/* Add hover effect to recipe cards */
+.recipe-card.clickable {
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.recipe-card.clickable:hover {
+    transform: scale(1.03);
+}
  
-.recipe_title {
+
+.recipe-content {
+    flex: 1;
+}
+
+.recipe-title {
     font-size: 18px;
     color: #c86400;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
  
-.recipe_description {
+.recipe-description {
     font-size: 14px;
 }
+
+.recipe-image {
+    font-size: 50px;
+    margin-bottom: 10px;
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+
+    height: 80px;
+}
+
