@@ -25,4 +25,4 @@ This is a personal learning project and is not open to contributions. Thank you 
 
 ## License
 
-This project is licensed under the Creative Commons Zero (CC0) [license](License) — released into the public domain where legally possible.
+This project is licensed under the Creative Commons Zero (CC0) [license](LICENSE) — released into the public domain where legally possible.
