@@ -1,2 +1,28 @@
-# cooking-ideas
-Website proposing ideas what to cook (Learning project)
+## Cooking Ideas Website
+
+A simple website for browsing meal inspiration. This project was created as a personal learning exercise to explore the basics of web development using HTML, CSS, and JavaScript (and potentially more technologies over time).
+
+## Purpose
+
+The main goal of this project is self-learning. It serves as a hands-on way to practice building and styling a website, working with interactivity, and improving front-end development skills.
+
+## Features
+
+- Simple presentation of cooking ideas
+- Built with basic web technologies (HTML, CSS, JavaScript)
+- Lightweight and easy to run locally in a browser
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Live Server in VS Code
+
+## Contributing
+
+This is a personal learning project and is not open to contributions. Thank you for your understanding.
+
+## License
+
+This project is licensed under the Creative Commons Zero (CC0) [license](License) — released into the public domain where legally possible.
