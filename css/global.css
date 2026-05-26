@@ -1,0 +1,17 @@
+/* Global Styles: This style sheet contains styles that are applied globally, 
+such as body font, background color, and base typography.*/
+
+/* Style the main heading */
+h1 {
+    color: #c86400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* BODY */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 40px;
+    margin-left: 40px;
+}

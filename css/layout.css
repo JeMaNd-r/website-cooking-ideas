@@ -1,0 +1,58 @@
+/* Layout Styles: It defines the overall layout of the page, 
+including grid systems, header, footer, and sidebar styles. */
+
+
+/* HEADER */
+header {
+    background-color: #eec297;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #9b4f02;
+    padding: 1px;
+    margin-left: -40px;
+    margin-right: -40px;
+}
+
+ /* Style the topnav */
+ul.topnav {
+  display: flex;
+  list-style-type: none;
+  /* width: fit-content; */
+  padding: 0;
+  margin-left: -40px;
+  margin-right: -40px;
+  background-color: #c86400;
+}
+
+
+/* NAVIGATION BAR */
+/* Style links in topnav */
+ul.topnav li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  margin-left: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: 2px
+}
+
+/* Change color on hover */
+ul.topnav li a:hover {
+  background-color: #c86400;
+  color: #eec297;
+} 
+
+/* FOOTER */
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #eec297;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #9b4f02;
+    padding: 1px;
+    z-index: 1000;
+}

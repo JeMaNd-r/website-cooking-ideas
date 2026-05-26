@@ -1,0 +1,19 @@
+/* Component Styles: This style sheet focuses on individual components 
+like buttons, forms, and cards. */
+
+
+/* recipes */
+.recipe {
+    border: 1px solid #eec297;
+    padding: 10px;
+}
+ 
+.recipe_title {
+    font-size: 18px;
+    color: #c86400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
+.recipe_description {
+    font-size: 14px;
+}
