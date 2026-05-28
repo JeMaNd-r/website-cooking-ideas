@@ -12,6 +12,10 @@ The main goal of this project is self-learning. It serves as a hands-on way to p
 - Built with basic web technologies (HTML, CSS, JavaScript)
 - Lightweight and easy to run locally in a browser
 
+## Progress
+
+2026-05-28 - Create wireframe in [Figma](https://www.figma.com/design/pBMudmg0lmYNs0S285arEI/Cooking-ideas-website-wireframe?node-id=0-1&t=s6Q55qm9BvzGRb3P-1) 
+
 ## Technologies Used
 
 - HTML
